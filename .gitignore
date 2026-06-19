@@ -1,0 +1,11 @@
+model.onnx
+tokenizer.json
+.venv
+.env
+__pycache__
+/workspaces/LLMZoomcamp/llm-zoomcamp-hw2/models/Xenova/all-MiniLM-L6-v2/model.onnx
+/workspaces/LLMZoomcamp/llm-zoomcamp-hw2/models/Xenova/all-MiniLM-L6-v2/tokenizer.json
+/workspaces/LLMZoomcamp/llm-zoomcamp-hw2/__pycache__
+/workspaces/LLMZoomcamp/llm-zoomcamp-hw2/models
+
+
